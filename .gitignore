@@ -21,3 +21,8 @@ Thumbs.db
 # Vite
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Internal docs (only README.md is tracked)
+TILBUD.md
+DEMO.md
+
